@@ -2297,7 +2297,7 @@ textarea.input {
 
   .text-categories__body {
     padding: 0 0 25px 0;
-    background: url('@img/58d2695f46a0115af5eb9c39.jpg') 0 0 no-repeat;
+    background: url('../img/58d2695f46a0115af5eb9c39.jpg') left no-repeat;
   }
 
   .info__row {
